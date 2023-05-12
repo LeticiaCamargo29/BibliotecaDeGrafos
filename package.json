@@ -1,0 +1,19 @@
+{
+  "name": "bibliotecadegrafos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello()"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeticiaCamargo29/BibliotecaDeGrafos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeticiaCamargo29/BibliotecaDeGrafos/issues"
+  },
+  "homepage": "https://github.com/LeticiaCamargo29/BibliotecaDeGrafos#readme"
+}
